@@ -1,0 +1,6 @@
+{
+  "name": "MindGrid",
+  "description": "An 8x8 neon grid puzzle game featuring chain reactions, combos, special powerups, daily challenges, and AdMob rewarded retry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
